@@ -9,7 +9,7 @@ An interactive tool to help manage my Pokemon Tabletop United 1.05 game. This to
 
 ## Tech Stack
 
-* DB: SQLite
+* DB: PostgreSQL
 * Backend: FastAPI
 * ORM: SQLAlchemy
 * Schemas: Pydantic
